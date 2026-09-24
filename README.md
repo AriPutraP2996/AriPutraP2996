@@ -2,103 +2,84 @@
 
 ## AI Evaluation • Data Quality • Python Automation
 
-Data-driven professional building practical systems for **AI evaluation, structured data processing, research, and automation**.
+I build practical, reproducible workflows for **AI evaluation, data quality, Python automation, and structured research**.
 
-I combine operational data experience with Python/API workflows, AI evaluation methodologies, business-data research, and systematic problem solving.
-
-> **Current focus:** building transparent, reproducible portfolio projects for AI/data-oriented roles and freelance work.
+My portfolio focuses on turning messy or qualitative requirements into clear processes: define the rubric, validate the data, automate repeatable work, test the workflow, and document the result.
 
 ---
 
-### What I Work On
+### Core Focus
 
-| Area | Focus |
+| Area | What I build |
 |---|---|
-| **AI Evaluation** | Response quality, rubric-based assessment, instruction following, structured evaluation |
-| **Data Quality** | Validation, cleaning, profiling, anomaly detection, dataset readiness |
-| **Python Automation** | Repeatable data workflows, API integration patterns, JSON/CSV processing |
-| **Data Research** | Business-data collection, normalization, deduplication, structured outputs |
-| **Digital Systems** | Content/data workflows and process automation |
+| **AI Evaluation** | Rubric-based response evaluation, structured scoring, evaluation reports |
+| **Data Quality** | Validation, profiling, completeness checks, anomaly and consistency checks |
+| **Python Automation** | Repeatable data workflows, API integrations, JSON/CSV processing |
+| **Data Research** | Structured business-data collection, normalization, deduplication, research QA |
+
+### Technical Stack
+
+**Python** · **Pandas** · **JSON/CSV** · **REST APIs** · **Git** · **GitHub Actions** · **pytest** · **Excel**
 
 ---
 
-## Featured Projects
+## Featured Project
 
-### 🤖 AI Response Evaluation Platform
+### 🤖 [AI Response Evaluation Platform](https://github.com/AriPutraP2996/ai-response-evaluation-platform)
 
-A reproducible rubric-based framework for evaluating AI responses across relevance, completeness, clarity, factual-support review, and instruction following.
+A reproducible Python framework that evaluates AI-generated responses against explicit criteria.
 
-**Python · JSON · Evaluation Framework · Testing**
+**Highlights**
 
-### 📊 Data Quality & Validation Pipeline
+- deterministic rubric-based scoring
+- instruction-following and completeness checks
+- structured JSON + Markdown reports
+- automated pytest coverage
+- executable CLI pipeline
+- GitHub Actions CI
+- documented methodology and limitations
 
-A data-quality pipeline that profiles records, detects missing/duplicate/invalid values, produces quality metrics, and exports a review report.
-
-**Python · Pandas · Data Validation · CSV**
-
-### ⚙️ Python API Automation
-
-A production-style API automation template with configuration management, retries, timeouts, structured logging, dry-run mode, and normalized outputs.
-
-**Python · REST API Patterns · Automation · Logging**
-
-### 🔎 Business Data Research Pipeline
-
-A research-data workflow demonstrating normalization, deduplication, field validation, categorization, and export of business records.
-
-**Python · Data Research · ETL · CSV/JSON**
+**Python · Evaluation · Testing · Automation · CI**
 
 ---
 
-## Professional Background
+## Portfolio Roadmap
 
-My background spans operational data processing, financial customer-data profiling, multimedia production, digital content research, AI evaluation, and technology/automation.
+The portfolio is being built as a focused sequence of practical projects:
 
-I have experience working with structured information, data validation, research workflows, and systematic quality checking.
+    01  AI Response Evaluation
+            ↓
+    02  Data Quality & Validation
+            ↓
+    03  Python API Automation
+            ↓
+    04  Business Data Research
 
-My current professional development focuses on **AI evaluation, data quality, Python/API workflows, automation, and structured research**.
+Each project is designed to demonstrate a different part of the same professional workflow: **evaluate → validate → automate → research**.
 
----
-
-## Technical Stack
-
-### Languages & Data
-
-`Python` `SQL Concepts` `JSON` `CSV` `Pandas`
-
-### AI & Evaluation
-
-`AI Response Evaluation` `Data Annotation` `Rubric-Based Evaluation` `Quality Assurance`
-
-### Automation & APIs
-
-`REST APIs` `Python Automation` `Data Processing` `Workflow Automation`
-
-### Tools
-
-`Git` `GitHub` `GitHub Actions` `Microsoft Excel` `MetaTrader 5` `MQL5`
+> Only completed and publicly verifiable work is presented as a finished project.
 
 ---
 
-## Engineering Principles
+## How I Work
 
-- **Reproducible** — workflows should be runnable from a clean environment.
-- **Transparent** — portfolio demonstrations clearly distinguish methodology from real client work.
-- **Testable** — important transformations and validation rules should have automated tests.
-- **Data-aware** — input quality is treated as part of the system, not an afterthought.
-- **Documented** — projects explain purpose, architecture, usage, assumptions, and limitations.
+- **Reproducible** — a clean environment should be able to reproduce the workflow.
+- **Transparent** — scoring rules, assumptions, and limitations are documented.
+- **Testable** — important behavior is covered by automated checks.
+- **Data-aware** — input quality is treated as part of the system.
+- **Practical** — projects emphasize useful workflows rather than decorative demos.
+- **Honest** — portfolio claims are kept aligned with what the code actually demonstrates.
 
 ---
 
-## Currently Building
+## Current Direction
 
-```text
-AI Evaluation
-      ↓
-Data Quality
-      ↓
-Python Automation
-      ↓
-Research Pipelines
-      ↓
-Practical AI/Data Systems
+I'm building toward roles and freelance work involving:
+
+**AI Evaluation · Data Quality · Data Operations · Python Automation · Data Research · AI/Data QA**
+
+---
+
+### Contact
+
+GitHub: [AriPutraP2996](https://github.com/AriPutraP2996)
