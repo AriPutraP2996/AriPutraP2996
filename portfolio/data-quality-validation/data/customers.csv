@@ -1,0 +1,6 @@
+customer_id,email,country,revenue
+C001,ana@example.com,Indonesia,1250
+C002,budi@example.com,Malaysia,900
+C003,invalid-email,Indonesia,400
+C002,repeated@example.com,Singapore,700
+C004,dina@example.com,Indonesia,-25
