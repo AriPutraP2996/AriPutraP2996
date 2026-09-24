@@ -43,21 +43,31 @@ A reproducible Python framework that evaluates AI-generated responses against ex
 
 ---
 
-## Portfolio Roadmap
+## Completed Portfolio Projects
 
-The portfolio is being built as a focused sequence of practical projects:
+### 01 · [Data Quality & Validation](./portfolio/data-quality-validation/)
 
-    01  AI Response Evaluation
-            ↓
-    02  Data Quality & Validation
-            ↓
-    03  Python API Automation
-            ↓
-    04  Business Data Research
+A deterministic validation workflow covering required fields, duplicates, email format, numeric values, structured issue reporting, and automated tests.
 
-Each project is designed to demonstrate a different part of the same professional workflow: **evaluate → validate → automate → research**.
+### 02 · [Python API Automation](./portfolio/python-api-automation/)
 
-> Only completed and publicly verifiable work is presented as a finished project.
+A testable API-ingestion workflow that retrieves JSON records, normalizes them into a stable schema, and exports CSV output.
+
+### 03 · [Business Data Research](./portfolio/business-data-research/)
+
+A reproducible research-preparation workflow covering normalization, entity deduplication, basic QA, and a Markdown business-data brief.
+
+> Example datasets in these portfolio projects are synthetic. They demonstrate technical workflows without claiming private client work or unverifiable professional experience.
+
+---
+
+## Portfolio Structure
+
+The portfolio now demonstrates a connected professional workflow:
+
+**evaluate → validate → automate → research**
+
+Each project includes executable Python code, documentation, tests, and reproducible examples. Portfolio CI also runs the automated test suites for these projects.
 
 ---
 
